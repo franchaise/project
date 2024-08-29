@@ -20,4 +20,4 @@ Credit card fraud is a significant problem that causes substantial financial los
 The model achieved a Precision score of 0.97, a Recall score of 0.80 and an F1- score of 0.88.
 
 
-# project
+
